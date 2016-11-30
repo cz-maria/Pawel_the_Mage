@@ -25,7 +25,7 @@ To start the game, run ./PawelJumper.py in terminal. Then the game will start.
 
 ## Authors
 
-* bleble
+* cz-maria
 
 ## License
 
