@@ -17,7 +17,7 @@ for more informations.
 
 ### Starting the game
 
-To start the game, run ./PawelJumper.py in terminal. Then the game will start.
+To start the game, run ./paweljumper.py in terminal. Then the game will start.
 
 ```
 ./paweljumper.py
