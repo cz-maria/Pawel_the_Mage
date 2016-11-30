@@ -73,4 +73,4 @@ Pliki graficzne użyte w grze, poza plikiem "Fiyah.png" zostały wykonane przeze
 Pliki dźwiękowe pochodzą z pakietu "8-Bit Sound Library", udostępnionego na licencji CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) przez Little Robot Sound Factory (http://www.littlerobotsoundfactory.com/).
 
 
-- bleble
+- cz-maria
