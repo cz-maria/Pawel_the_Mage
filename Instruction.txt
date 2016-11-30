@@ -1,0 +1,76 @@
+INSTRUCTIONS IN ENG, PL
+
+
+ENG
+
+Pawel the Mage is a simple "Bubble Bobble"-style arcade game. The code of the game is written in python3 with the pygame library. Creating a game was a homework for Python classes at Warsaw University of Technology in the winter semester of 2016.
+
+
+How to start
+
+To run the game, python3 with pygame is required. Type ./paweljumper in terminal (You need to be in the catalogue with all the files).
+
+
+How to play
+
+The point of the game is to reach the highest floor in the mage's tower and not get killed by knights.
+
+You can choose one of three outfits for your player. The options are loaded from the file options.txt file. Type 0 in the file to have a celadon cape, type 1 for a blue cape or type anothe integer for the mage all in white.
+
+At the opening screen You can know the story. To start the game, press ENTER. To leave the game, press ESC.
+
+Controls:
+LEFT/RIGHT key - the player moves left/right
+UP key - the player jumps
+SPACE - the player releases a fire blast, which can be used to kill the evil knights
+
+If You lost, You would see the score (number of the knights killed). Then You can exit the game by pressing ESC, or start the game from the beginning by pressing ENTER.
+
+If You won, You also would see the score and pressing ESC would close the game and pressing ENTER would send You to the level 1.
+
+
+Source of files
+
+The images used in the game, with exception for "Fiyah.png", are my own work. The file "Fiyah.png" comes from http://opengameart.org and it is distributed by the user KerteX_ (http://opengameart.org/users/kertex-0) under CC0 1.0 Universal (CC0 1.0) Licence.
+
+The sound files come from "8-Bit Sound Library" package, distributed by Little Robot Sound Factory (http://www.littlerobotsoundfactory.com/) under CC BY 4.0 Licence (https://creativecommons.org/licenses/by/4.0/).
+
+
+PL
+
+Gra Pawel the Mage jest prostą grą pokroju "Bubble Bobble". Kod gry został napisany w języku python3, przy użyciu biblioteki pygame. Gra powstała na zaliczenie pracy domowej z przedmiotu "Przetwarzanie i analiza danych w języku Python" na Politechnice Warszawskiej w semestrze zimowym 2016 roku.
+
+
+Jak rozpocząć grę
+
+Żeby możliwe było odpalenie gry, od Użytkownika wymagane są python3 oraz pygame na komputerze. Grę uruchamia się z terminala (otwartego w katalogu zawierającym wszystkie pliki gry), wspisując komendę ./paweljumper.py.
+
+
+Jak grać
+
+Celem gry jest dotarcie do ostatniego piętra wieży maga, pozostając niezabitym przez rycerzy.
+
+Użytkownik ma do wyboru trzy opcje ubioru bohatera Opcje są wczytywane z pliku tekstowego. Mozna zmienic kolor peleryny maga za pomocą pliku options.txt. Wpisując w treści pliku 0, mag Paweł otrzyma seledynową pelerynę, przy wpisaniu 1 płaszcz będzie niebieski, a jeśli wpisze się dowolną inną liczbę całkowitą, mag będzie cały na biało.
+
+Na ekranie początkowym pojawia się zarys fabuły gry. Aby rozpocząć przygodę, należy wcisnąć klawicz ENTER. Aby wyjść z gry należy wcisnąć ESC.
+
+
+Sterowanie
+
+LEFT/RIGHT - the bohater porusza się w lewo/prawo
+UP - bohater wykonuje skok
+SPACE - bohater ciska ogniowym pociskiem, który może zostać użyty w celu wyeliminowania wrogich rycerzy
+
+W przypadku przegranej, pojawia się ekran z wyświetlonym wynikiem (liczbą pokonanych rycerzy). W tym momencie Użytkownik może zakończyć grę, wciskając ESC, lub rozpocząć od nowa, wciskając ENTER.
+
+Kiedy Gracz przejdzie grę (dotrze do ostatniego piętra), pojawia się ekran końcowy z wynikiem. Użytkownik może rozpocząć grę od nowa (ENTER), lub wyjść z gry (ESC).
+
+
+Źródła plików
+
+Pliki graficzne użyte w grze, poza plikiem "Fiyah.png" zostały wykonane przeze mnie. Plik "Fiyah.png" został udostępniony przez użytkownika KerteX_ na stronie http://opengameart.org http://opengameart.org/users/kertex-0) na licencji CC0 1.0 Universal (CC0 1.0).
+
+Pliki dźwiękowe pochodzą z pakietu "8-Bit Sound Library", udostępnionego na licencji CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) przez Little Robot Sound Factory (http://www.littlerobotsoundfactory.com/).
+
+
+- bleble
