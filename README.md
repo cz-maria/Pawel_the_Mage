@@ -4,7 +4,7 @@ Pawel the Mage is an arcade game created for Python classes at WUT in 2016.
 
 ## Getting Started
 
-All instructions about the game are contained in the file INSTRUCTIONS.txt
+All instructions about the game are contained in the file Instructions.txt
 
 ### Prerequisites
 
